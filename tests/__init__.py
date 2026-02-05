@@ -1,1 +1,1 @@
-"""Tests for agent-rate-limiter."""
+# Tests for agent-rate-limiter
